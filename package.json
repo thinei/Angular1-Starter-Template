@@ -40,7 +40,7 @@
     "angular-route": "^1.5.9",
     "angular-ui-router": "^0.3.2",
     "bootstrap": "^3.3.7",
-    "d3": "^4.4.0",
+    "d3": "^7.6.1",
     "gulp-sass": "^4.0.2",
     "jquery": "^3.1.1"
   }
